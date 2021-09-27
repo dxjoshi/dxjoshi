@@ -3,7 +3,7 @@
 
 **:open_book: About Me:**
 
-I’m a software engineer from New Delhi, India :india: . I am passionate about building distributed backend systems. I like to learn new things about software, speak with people and read books on health and finance. I’m currently learning about System Design and Cloud Architecture. I’m looking to contribute to Open Source projects in the near future.
+I’m a software engineer from <img src='https://github.com/dxjoshi/dxjoshi/blob/master/india_flag.png' alt='india' align="center" width="16px"> New Delhi, India. I am passionate about building distributed backend systems. I like to learn new things about software, speak with people and read books on health and finance. I’m currently learning about System Design and Cloud Architecture. I’m looking to contribute to Open Source projects in the near future.
 
 **:mailbox: Connect With Me:**
 
